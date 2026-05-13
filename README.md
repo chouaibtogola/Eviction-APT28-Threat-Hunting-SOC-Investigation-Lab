@@ -3,6 +3,7 @@ Threat hunting and SOC investigation lab focused on APT28 adversary behavior usi
 
 <img width="530" height="349" alt="image" src="https://github.com/user-attachments/assets/0f2ec828-4119-43f2-9795-263b308ae4df" />
 image source: https://www.crowdstrike.com/content/dam/crowdstrike/www/en-us/wp/2016/09/FancyBearBlog-1.jpg
+
 # Overview
 
 This project documents my completion of the “Eviction” Lab, where I performed threat hunting and SOC analysis activities based on intelligence related to the APT28 threat group.
